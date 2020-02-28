@@ -1,3 +1,4 @@
+/* global btnCal: true */
 $(function(){
     /*calc button click event*/
     //get dom elem
